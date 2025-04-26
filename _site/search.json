@@ -7,6 +7,13 @@
     "text": "hi, i’m a human. thank you Kane’s Free Data Science Bootcamp"
   },
   {
+    "objectID": "about.html#about-me",
+    "href": "about.html#about-me",
+    "title": "About",
+    "section": "",
+    "text": "hi, i’m a human. thank you Kane’s Free Data Science Bootcamp"
+  },
+  {
     "objectID": "index.html",
     "href": "index.html",
     "title": "My Cool Plot",
@@ -14,10 +21,10 @@
     "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites."
   },
   {
-    "objectID": "about.html#about-me",
-    "href": "about.html#about-me",
-    "title": "About",
+    "objectID": "sources.html",
+    "href": "sources.html",
+    "title": "Sources",
     "section": "",
-    "text": "hi, i’m a human. thank you Kane’s Free Data Science Bootcamp"
+    "text": "An overview of sources used in my project. These are my sources. Here are some challenges. Quarto websites are awesome."
   }
 ]
